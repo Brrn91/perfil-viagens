@@ -27,7 +27,7 @@ header {
   background-color: var(--skeleton-color);
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .logo {
@@ -71,7 +71,7 @@ section.bio {
   height: 240px;
   display: flex;
   background-color: var(--skeleton-color);
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 div.perfil {
@@ -174,8 +174,11 @@ section.imagens {
   grid-template-rows: 286px 286px 286px;
   gap: 24px;
   margin: 24px 32px;
-  align-content: space-evenly;
-  justify-content: space-evenly;
+  margin: 24px 32px;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
 }
 
 section.imagens>img {
@@ -186,7 +189,7 @@ section.imagens>img {
 footer {
   height: 72px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 }
 

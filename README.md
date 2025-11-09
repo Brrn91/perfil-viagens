@@ -1,7 +1,8 @@
 # 👥 Perfil-Viagens
 
-Aplicação simples e responsiva que exibe um **Perfil de Rede Social** onde o usuário postaria as fotos de suas viagens. utilizando apenas HTML e CSS.
-Projeto desenvolvido como treino de **HTML e CSS**, com foco em **estrutura semântica, responsividade e boas práticas de estilização**.  
+Projeto desenvolvido com **HTML e CSS** puro, inspirado no visual e na estrutura do Instagram, com foco em postagens de fotos de viagens.
+
+O projeto tem como objetivo praticar conceitos de layout moderno e responsivo, utilizando **Flexbox e CSS Grid Layout** para organizar o conteúdo de forma harmônica e adaptável a diferentes tamanhos de tela.
 
 ---
 

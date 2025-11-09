@@ -9,7 +9,7 @@ Projeto desenvolvido como treino de **HTML e CSS**, com foco em **estrutura sem�
 
 ![Screenshot do Projeto](assets/preview.jpg)  
 
-👉 [Acesse o projeto online](https://brrn91.github.io/projeto-turismo/)  
+👉 [Acesse o projeto online](https://brrn91.github.io/perfil-viagens/)  
 
 ---
 
